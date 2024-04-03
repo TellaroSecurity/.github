@@ -1,6 +1,6 @@
 <h1 align="center">
 
-<a href="https://reflexsoar.com"><img src="https://github.com/tellarosecurity/.github/raw/main/profile/logo.png" width="25%"></a>
+<a href="https://reflexsoar.com"><img src="https://github.com/tellarosecurity/.github/raw/main/profile/tellaro-logo-color.png" width="25%"></a>
 
 </h1><h4 align="center">
 
